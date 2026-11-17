@@ -1,0 +1,15 @@
+# Analysis
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+statsmodels>=0.14
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6.29
+
+# Generation
+datasets>=3.0
+openai>=1.60
+python-dotenv>=1.0
+strong_reject @ git+https://github.com/dsbowen/strong_reject.git@7a551d5b440ec7b75d4f6f5bb7c1719965b76b47
+pyrit==1.2.1

@@ -1,0 +1,10 @@
+# Raw prompts and model replies: never shared. Only scores.csv and figures are.
+results/raw/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
